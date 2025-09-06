@@ -1,8 +1,8 @@
-# GPT3 Website
+# ASK-ME OPENAI GPT3 Website
 
-#### Live Project🎉
-- [**GitHub** - https://nkilm.github.io/openai-gpt3](https://nkilm.github.io/openai-gpt3/)
-- [**Vercel** - https://openai-gpt3.vercel.app](https://nkilm.github.io/openai-gpt3/)
+## Overview
+
+**Askme_AI** is an AI-powered chatbot application that allows users to upload PDFs and interact with the content through natural language queries. Built using React and Node.js, it leverages OpenAI's GPT-3 model to provide intelligent responses.
 
 ## Usage
 
@@ -20,22 +20,29 @@ npm i
 npm start
 ```
 
-## Concepts Learned
-- [x] Website Design - **Figma**
-- [x] BEM(Block-Element-Modifier) CSS
-- [x] Flexbox and Grid
-- [x] Complex CSS Animation (**Gradients and Key-frames**)
-- [x] CSS Variables in React Project
-- [x] React Component Reusability
-- [x] Clean Imports in React Components
-- [x] React Project Structure
-- [x] Responsive Website using Reactjs
-- [x] Deploying React App(s) to GitHub/Vercel
-- [x] Containerizing NodeJS app using Docker
+# Askme_AI
+
+## Overview
+
+**Askme_AI** is an AI-powered chatbot application that allows users to upload PDFs and interact with the content through natural language queries. Built using React and Node.js, it leverages OpenAI's GPT-3 model to provide intelligent responses.
+
+## Features
+
+- **PDF Upload**: Users can upload PDF documents for analysis.
+- **Natural Language Queries**: Ask questions related to the uploaded content.
+- **AI-Powered Responses**: Powered by OpenAI's GPT-3 for accurate and context-aware answers.
+
+## Technologies Used
+
+- **Frontend**: React.js
+- **Backend**: Node.js
+- **AI Model**: OpenAI GPT-3
+- **Styling**: CSS (BEM methodology)
+
+- Acknowledgements
+
+OpenAI for providing the GPT-3 model.
+
+React and Node.js communities for their open-source contributions.
 
 
-## Figma Design - 
-[*Click me!!*](https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A15)
-## Credits 
-
-YouTube - [Javascript Mastery](https://www.youtube.com/c/JavaScriptMastery) 
